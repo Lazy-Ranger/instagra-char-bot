@@ -5,4 +5,4 @@ require("dotenv").config();
 global["ROOT_DIR"] = __dirname;
 
 // main app
-require("../server/main");
+require("../src/main");
